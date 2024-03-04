@@ -1,0 +1,1 @@
+UPDATE notes SET text = 'Первая тестовая запись в заметках' WHERE id = 1;
