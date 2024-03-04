@@ -1,0 +1,1 @@
+DELETE FROM notes where id = 2;
